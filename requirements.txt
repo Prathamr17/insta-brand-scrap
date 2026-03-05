@@ -1,0 +1,7 @@
+pandas
+numpy
+requests
+pymongo
+python-dotenv
+streamlit>=1.32
+altair>=5
